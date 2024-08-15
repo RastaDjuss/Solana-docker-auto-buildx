@@ -2,6 +2,7 @@
 # A Solana Docker auto builder Dockerfile
 
 # Just prepare docker and install Docker Descltop:
+
 follow this link:
 (https://docs.docker.com/desktop/install/mac-install/)
 and install istructiobs..
