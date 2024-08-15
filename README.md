@@ -6,9 +6,9 @@ follow this link:
 (https://docs.docker.com/desktop/install/mac-install/)
 and install istructiobs..
 
-# Then run docker build commands:
+# Then run docker build commands in terminal:
 
-Bash
+
 docker buildx build .
 
 
