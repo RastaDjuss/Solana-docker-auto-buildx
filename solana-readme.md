@@ -64,7 +64,7 @@ $ ./cargo build
 ```bash
 $ ./cargo test
 ```
- 
+#this is where docker builx builx . takes you... 
 ### Starting a local testnet
 
 Start your own testnet locally, instructions are in the [online docs](https://docs.solanalabs.com/clusters/benchmark).
