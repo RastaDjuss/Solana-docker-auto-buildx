@@ -8,9 +8,9 @@ and install istructiobs..
 
 # Then run docker build commands in terminal:
 
-
+'''
 docker buildx build .
-
+'''
 
 # Thats it it builds and tests for you
 
@@ -21,3 +21,4 @@ if you want it on localhost but its all here:
 
 
 # Eventually i would like to configure my multy-contain-app to deploy solana-cookbook-master also witch gives a localhost of important add ons for solana.
+
