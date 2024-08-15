@@ -8,9 +8,9 @@ and install istructiobs..
 
 # Then run docker build commands:
 
-,,,
+Bash
 docker buildx build .
-,,,
+
 
 # Thats it it builds and tests for you
 
