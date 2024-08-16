@@ -1,1 +1,0 @@
-solana config set --url http://privaterpc.com

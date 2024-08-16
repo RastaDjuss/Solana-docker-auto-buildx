@@ -1,3 +1,0 @@
-(async () => {
-  await torus.logout();
-})();

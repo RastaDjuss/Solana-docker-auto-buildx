@@ -1,1 +1,0 @@
-spl-token create-token

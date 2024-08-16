@@ -1,1 +1,0 @@
-# input your secret into the Keypath listed under solana config get

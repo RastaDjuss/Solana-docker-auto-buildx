@@ -1,1 +1,0 @@
-let keypair = Keypair.generate();

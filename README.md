@@ -1,3 +1,5 @@
+# Doclerfile works but lacks memory
+
 # Howdy i don't know if this is possible...
 # A Solana Docker auto builder Dockerfile
 

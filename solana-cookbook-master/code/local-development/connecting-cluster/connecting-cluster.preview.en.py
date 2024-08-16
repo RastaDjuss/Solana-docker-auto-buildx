@@ -1,1 +1,0 @@
-client = Client("https://api.mainnet-beta.solana.com")
