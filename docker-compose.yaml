@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  solana-builder:
+    build:
+      context: .
+      dockerfile: Dockerfile
